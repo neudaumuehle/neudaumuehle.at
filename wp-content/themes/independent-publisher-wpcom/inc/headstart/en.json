@@ -1,0 +1,147 @@
+{
+    "settings": {
+        "options": {
+            "posts_per_page": "9"
+        },
+        "theme_mods": {
+            "0": false,
+            "header_image": "https:\/\/independentpublisherdemo.files.wordpress.com\/2015\/07\/cropped-notebook-coffee.jpg",
+            "nav_menu_locations": {
+                "primary": "primary",
+                "social": "social-navigation"
+            },
+            "independent_publisher_use_cover_images": true,
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "undefined": "Colors",
+                    "txt": "#383838",
+                    "link": "#57ad68",
+                    "fg1": "#bbc7d3",
+                    "fg2": "#ffffff"
+                }
+            },
+            "header_image_data": {
+                "attachment_id": 9,
+                "url": "https:\/\/independentpublisherdemo.files.wordpress.com\/2015\/07\/cropped-notebook-coffee.jpg",
+                "thumbnail_url": "https:\/\/independentpublisherdemo.files.wordpress.com\/2015\/07\/cropped-notebook-coffee.jpg",
+                "height": 720,
+                "width": 1440
+            }
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_title": "About",
+            "post_content": "This is an example of an about page. Unlike posts, pages are better suited for more timeless content that you want to be easily accessible, like your About or Contact information. Click the Edit link to make changes to this page or <a href=\"https:\/\/wordpress.com\/page\">add another page<\/a>.",
+            "post_excerpt": "This is just a short excerpt for the about&nbsp;page.",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_about_page",
+            "hs_sharing": 1,
+            "hs_old_id": 102,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "Contact",
+            "post_content": "This is a contact page with some basic contact information and a contact form. [contact-form][contact-field label=\"Name\" type=\"name\" required=\"1\"\/][contact-field label=\"Email\" type=\"email\" required=\"1\"\/][contact-field label=\"Website\" type=\"url\"\/][contact-field label=\"Comment\" type=\"textarea\" required=\"1\"\/][\/contact-form]",
+            "post_excerpt": "This is just a short excerpt for the contact&nbsp;page.",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 1,
+            "hs_old_id": 103,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "First blog post",
+            "post_content": "This is your very first post. Click the Edit link to modify or delete it, or <a href=\"https:\/\/wordpress.com\/post\">start a new post<\/a>. If you like, use this post to tell readers why you started this blog and what you plan to do with it. ",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_first_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "hs_old_id": 104
+        }
+    ],
+    "menus": {
+        "social-navigation": {
+            "name": "Social Navigation",
+            "items": [
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 10,
+                    "menu-item-object-id": "10",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http:\/\/twitter.com\/#"
+                },
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 11,
+                    "menu-item-object-id": "11",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http:\/\/facebook.com\/#"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 12,
+                    "menu-item-object-id": "12",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http:\/\/instagram.com\/#"
+                },
+                {
+                    "menu-item-title": "Pinterest",
+                    "menu-item-db-id": 13,
+                    "menu-item-object-id": "13",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http:\/\/pinterest.com\/#"
+                },
+                {
+                    "menu-item-title": "RSS Feed",
+                    "menu-item-db-id": 14,
+                    "menu-item-object-id": "14",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https:\/\/independentpublisherdemo.wordpress.com\/feed"
+                }
+            ]
+        }
+    }
+}
